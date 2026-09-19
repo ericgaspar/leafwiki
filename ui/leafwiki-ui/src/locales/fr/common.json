@@ -1,43 +1,43 @@
 {
   "sidebar": {
     "explorerTab": "Explorer",
-    "searchTab": "Search"
+    "searchTab": "Recherche"
   },
   "errorBoundary": {
-    "heading": "Something went wrong",
-    "body": "An unexpected error occurred. Reloading the page usually fixes this.",
-    "reloadButton": "Reload page",
-    "tryRecoverButton": "Try to recover",
-    "detailsSummary": "Error details"
+    "heading": "Une erreur s'est produite",
+    "body": "Une erreur inattendue s'est produite. Le rafraîchissement de la page permet généralement de résoudre ce problème.",
+    "reloadButton": "Actualiser la page",
+    "tryRecoverButton": "Essayer de récupérer",
+    "detailsSummary": "Détails de l'erreur"
   },
   "page404": {
-    "heading": "Page Not Found",
-    "body": "The page you are looking for does not exist.",
-    "createPrompt": "Create the page by clicking the button below.",
-    "createButton": "Create Page"
+    "heading": "Page introuvable",
+    "body": "La page que vous recherchez n'existe pas.",
+    "createPrompt": "Créez la page en cliquant sur le bouton ci-dessous.",
+    "createButton": "Créer une page"
   },
   "unsavedChangesDialog": {
-    "title": "Unsaved Changes",
-    "description": "You have unsaved changes. Are you sure you want to leave this page? Unsaved data will be lost.",
-    "cancelButton": "Cancel",
-    "leaveAnywayButton": "Leave anyway"
+    "title": "Modifications non enregistrées",
+    "description": "Vous avez des modifications non enregistrées. Êtes-vous sûr de vouloir quitter cette page ? Les données non enregistrées seront perdues.",
+    "cancelButton": "Annuler",
+    "leaveAnywayButton": "Quitter"
   },
   "dialog": {
-    "closeSrOnly": "Close"
+    "closeSrOnly": "Fermer"
   },
   "validation": {
-    "failedToast": "Validation failed"
+    "failedToast": "Échec de la validation"
   },
   "configLoad": {
-    "fetchErrorFallback": "Could not load config: {{status}} {{statusText}}",
-    "errorFallback": "Could not load configuration"
+    "fetchErrorFallback": "Impossible de charger la configuration : {{status}} {{statusText}}",
+    "errorFallback": "Impossible de charger la configuration"
   },
   "language": {
     "selfName": "Français"
   },
   "pagination": {
-    "prev": "← Prev",
-    "next": "Next →",
-    "pageOf": "Page {{page}} of {{total}}"
+    "prev": "← Précédent",
+    "next": "Suivant →",
+    "pageOf": "Page {{page}} sur {{total}}"
   }
 }
