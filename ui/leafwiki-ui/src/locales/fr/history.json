@@ -1,6 +1,6 @@
 {
   "common": {
-    "unknown": " Inconnu",
+    "unknown": "Inconnu",
     "unknownTime": "Heure inconnue"
   },
   "errors": {
