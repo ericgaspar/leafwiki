@@ -1,108 +1,108 @@
 {
   "common": {
-    "unknown": "Unknown",
-    "unknownTime": "Unknown time"
+    "unknown": " Inconnu",
+    "unknownTime": "Heure inconnue"
   },
   "errors": {
-    "loadListFallback": "Failed to load page history",
-    "loadPreviewFallback": "Failed to load revision preview",
-    "compareFallback": "Failed to compare revisions",
-    "loadMoreFallback": "Failed to load more revisions"
+    "loadListFallback": "Échec du chargement de l'historique de la page",
+    "loadPreviewFallback": "Échec du chargement de l'aperçu de la révision",
+    "compareFallback": "Échec de la comparaison des révisions",
+    "loadMoreFallback": "Échec du chargement d'autres révisions"
   },
   "trigger": {
-    "contentUpdate": "Saved after content update",
-    "assetUpdate": "Saved after asset update",
-    "structureUpdate": "Saved after structure update",
-    "restore": "Saved after restore",
-    "delete": "Saved before delete",
-    "generic": "Saved as {{type}}"
+    "contentUpdate": "Enregistré après la mise à jour du contenu",
+    "assetUpdate": "Enregistré après la mise à jour d’un élément",
+    "structureUpdate": "Enregistré après la mise à jour de la structure",
+    "restore": "Enregistré après la restauration",
+    "delete": "Enregistré avant la suppression",
+    "generic": "Enregistré en tant que {{type}}"
   },
   "assetChange": {
-    "added": "Added",
-    "removed": "Removed",
-    "replaced": "Replaced"
+    "added": "Ajouté",
+    "removed": "Supprimé",
+    "replaced": "Remplacé"
   },
   "restoreDialog": {
-    "title": "Restore revision?",
-    "description": "This restores the revision content, title, and assets. The current slug and location stay unchanged.",
-    "cancel": "Cancel",
-    "confirm": "Restore revision",
-    "restoredTitleLabel": "Restored title:",
-    "slugNote": "This revision used slug <mono>{{revisionSlug}}</mono>. The current slug <mono>{{currentSlug}}</mono> will stay unchanged."
+    "title": "Restaurer la révision ?",
+    "description": "Cette opération restaure le contenu, le titre et les ressources de la révision. Le slug et l’emplacement actuels restent inchangés.",
+    "cancel": "Annuler",
+    "confirm": "Restaurer la révision",
+    "restoredTitleLabel": "Titre restauré :",
+    "slugNote": "Cette révision utilisait le slug <mono>{{revisionSlug}}</mono>. Le slug actuel <mono>{{currentSlug}}</mono> restera inchangé."
   },
   "diff": {
-    "noTextDifference": "No text difference between this revision and the active version."
+    "noTextDifference": "Aucune différence de texte entre cette révision et la version active."
   },
   "changes": {
-    "summaryHeading": "Change Summary",
-    "linesAdded": "Lines added since",
-    "linesRemoved": "Lines removed since",
-    "assetsChanged": "Assets changed",
+    "summaryHeading": "Résumé des modifications",
+    "linesAdded": "Lignes ajoutées depuis",
+    "linesRemoved": "Lignes supprimées depuis",
+    "assetsChanged": "Ressources modifiées",
     "diffHeading": "Diff",
-    "diffNote": "compared to the active version",
-    "assetsDetails": "Assets ({{count}})",
-    "assetAdded": "{{count}} added",
-    "assetReplaced": "{{count}} replaced",
-    "assetRemoved": "{{count}} removed"
+    "diffNote": "par rapport à la version active",
+    "assetsDetails": "Ressources ({{count}})",
+    "assetAdded": "{{count}} ajoutées",
+    "assetReplaced": "{{count}} remplacées",
+    "assetRemoved": "{{count}} supprimées"
   },
   "rawText": {
-    "heading": "Raw Text",
-    "empty": "(empty)"
+    "heading": "Texte brut",
+    "empty": "(vide)"
   },
   "assetsPanel": {
-    "heading": "Assets",
-    "empty": "No assets were stored with this revision.",
+    "heading": "Ressources",
+    "empty": "Aucune ressource n'a été enregistrée avec cette révision.",
     "octetStream": "application/octet-stream",
-    "openAsset": "Open asset",
-    "downloadAsset": "Download asset"
+    "openAsset": "Ouvrir la ressource",
+    "downloadAsset": "Télécharger la ressource"
   },
   "tabs": {
-    "preview": "Preview",
-    "changes": "Changes",
-    "raw": "Raw Text",
-    "assets": "Assets",
-    "mobileRevisions": "Revisions",
-    "mobileDetails": "Details"
+    "preview": "Aperçu",
+    "changes": "Modifications",
+    "raw": "Texte brut",
+    "assets": "Ressources",
+    "mobileRevisions": "Révisions",
+    "mobileDetails": "Détails"
   },
   "detail": {
-    "loadingHistory": "Loading history...",
-    "noRevisionSelectedTitle": "No revision selected",
-    "noRevisionSelectedMessage": "Select a revision from the list to view details.",
-    "loadingDiff": "Loading diff...",
-    "loadingPreview": "Loading preview...",
-    "noPreview": "No preview available.",
-    "noChangesFromCurrent": "No differences from the current version.",
-    "noComparisonData": "No comparison data available.",
-    "noRawText": "No raw text available.",
-    "noAssetData": "No asset data available."
+    "loadingHistory": "Chargement de l'historique...",
+    "noRevisionSelectedTitle": "Aucune révision sélectionnée",
+    "noRevisionSelectedMessage": "Sélectionnez une révision dans la liste pour afficher les détails.",
+    "loadingDiff": "Chargement des différences...",
+    "loadingPreview": "Chargement de l'aperçu...",
+    "noPreview": "Aucun aperçu disponible.",
+    "noChangesFromCurrent": "Aucune différence par rapport à la version actuelle.",
+    "noComparisonData": "Aucune donnée de comparaison disponible.",
+    "noRawText": "Aucun texte brut disponible.",
+    "noAssetData": "Aucune donnée de ressource disponible."
   },
   "list": {
-    "loading": "Loading history...",
-    "emptyWithLatest": "No previous revisions yet. Older versions will appear here after more changes.",
-    "emptyNoLatest": "No revisions yet. They will appear here after the page changes.",
-    "activeVersionBadge": "Active version",
-    "loadMoreLoading": "Loading...",
-    "loadMore": "Load more",
-    "resizeAriaLabel": "Resize revision list",
-    "title": "Revision History"
+    "loading": "Chargement de l'historique...",
+    "emptyWithLatest": "Aucune révision antérieure pour le moment. Les versions plus anciennes s'afficheront ici après d'autres modifications.",
+    "emptyNoLatest": "Aucune révision pour le moment. Elles s'afficheront ici après la mise à jour de la page.",
+    "activeVersionBadge": "Version active",
+    "loadMoreLoading": "Chargement en cours...",
+    "loadMore": "Charger plus",
+    "resizeAriaLabel": "Redimensionner la liste des révisions",
+    "title": "Historique des révisions"
   },
   "header": {
-    "revisionBy": "Revision by {{author}} · {{time}}",
-    "restoreLoading": "Restoring...",
-    "currentVersion": "Current version",
-    "restore": "Restore",
-    "titleLabel": "Title",
+    "revisionBy": "Révision par {{author}} · {{time}}",
+    "restoreLoading": "Restauration en cours...",
+    "currentVersion": "Version actuelle",
+    "restore": "Restaurer",
+    "titleLabel": "Titre",
     "slugLabel": "Slug",
-    "emptyValue": "(empty)"
+    "emptyValue": "(vide)"
   },
   "chips": {
-    "revisionSlug": "Revision slug: {{slug}}",
-    "currentSlug": "Current slug: {{slug}}",
-    "assetChangesCount": "{{count}} asset changes",
-    "assetsCount": "{{count}} Assets"
+    "revisionSlug": "Slug de la révision : {{slug}}",
+    "currentSlug": "Slug actuel : {{slug}}",
+    "assetChangesCount": "{{count}} modifications d'éléments",
+    "assetsCount": "{{count}} ressources"
   },
   "toasts": {
-    "restoreSuccess": "Revision restored",
-    "restoreErrorFallback": "Failed to restore revision"
+    "restoreSuccess": "Révision restaurée",
+    "restoreErrorFallback": "Échec de la restauration de la révision"
   }
 }
