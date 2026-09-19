@@ -10,7 +10,7 @@
   },
   "siteName": {
     "title": "Nom du site",
-    "description": "Le nom affiché dans l'en-tête, les titres de page et l'écran de connexion. ",
+    "description": "Le nom affiché dans l'en-tête, les titres de page et l'écran de connexion.",
     "label": "Nom du site",
     "placeholder": "LeafWiki"
   },
@@ -25,7 +25,7 @@
   },
   "favicon": {
     "title": "Favicon",
-    "description": " L'icône affichée dans l'onglet du navigateur.",
+    "description": "L'icône affichée dans l'onglet du navigateur.",
     "currentLabel": "Favicon actuel :",
     "noFavicon": "Utilisation de la favicon par défaut",
     "uploadLabel": "Télécharger le favicon",

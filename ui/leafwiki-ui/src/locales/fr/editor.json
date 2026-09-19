@@ -36,7 +36,7 @@
     "tableTooltip": "Tableau",
     "tableSizeSelect": "Sélectionner la taille",
     "tableSizeLabel": "{{col}} × {{row}}",
-    "tableInsertAriaLabel": "Insérer un tableau {{col}} x {{row}}",
+    "tableInsertAriaLabel": "Insérer un tableau {{col}} × {{row}}",
     "codeBlockTooltip": "Bloc de code",
     "inlineCodeTooltip": "Code en ligne (Ctrl+`)",
     "imageTooltip": "Image / Fichier",
@@ -122,7 +122,7 @@
     "keyWhitespace": "La clé de propriété ne doit pas contenir d'espaces au début ou à la fin.",
     "keyReservedPrefix": "La clé de propriété utilise un préfixe réservé.",
     "keyReserved": "La clé de propriété est réservée.",
-    "keyUnique": " La clé de propriété doit être unique.",
+    "keyUnique": "La clé de propriété doit être unique.",
     "valueType": "La valeur de la propriété doit être une chaîne de caractères, un nombre, un booléen ou une liste plate."
   },
   "titleBar": {

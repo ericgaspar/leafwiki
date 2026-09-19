@@ -29,7 +29,7 @@
       "autoSaveDescription": "Enregistrez automatiquement vos modifications lorsque vous modifiez une page.",
       "savedToast": "Préférence enregistrée",
       "autoSaveToggleError": "Impossible de mettre à jour le paramètre d'enregistrement automatique",
-      "languageLabel": " Langue",
+      "languageLabel": "Langue",
       "languageChangeError": "Impossible de mettre à jour le paramètre de langue",
       "dateFormatLabel": "Format de la date",
       "dateFormatChangeError": "Impossible de mettre à jour le paramètre de format de date",

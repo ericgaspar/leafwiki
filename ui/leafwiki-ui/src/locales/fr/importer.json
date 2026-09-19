@@ -93,7 +93,7 @@
     "willSkip": "Will Skip",
     "runningCancelRequested": "Cancellation has been requested. The importer will stop after the current item finishes.",
     "runningInBackground": "The import is running in the background. You can stay on this page to watch progress.",
-    "currentlyProcessing": " Currently processing {{path}}.",
+    "currentlyProcessing": "Currently processing {{path}}.",
     "canceledNotice": "The import was canceled. Completed items were kept, and the partial result is shown below.",
     "idLabel": "ID:",
     "treeHashLabel": "Tree Hash:",
