@@ -5,9 +5,9 @@
     "uploadErrorFallback": "Échec du téléchargement de la ressource",
     "dropzoneText": "Déposez vos fichiers ici ou cliquez pour les télécharger",
     "maxFileSize": "Taille maximale du fichier : {{maxSize}}",
-    "uploading_one": "Téléchargement du fichier {{count}}…",
-    "uploading_other": "Téléchargement des fichiers {{count}}…",
-    "loading": "Chargement des ressources…",
+    "uploading_one": "Téléchargement du fichier {{count}}...",
+    "uploading_other": "Téléchargement des fichiers {{count}}...",
+    "loading": "Chargement des ressources...",
     "empty": "Aucun élément pour l'instant",
     "tip": "Astuce : un double-clic insère le balisage par défaut. Les images peuvent également être ajoutées sous forme de liens, et les fichiers audio/vidéo disposent d’un bouton d’insertion de lecteur."
   },
