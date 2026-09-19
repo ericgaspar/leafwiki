@@ -1,0 +1,32 @@
+{
+  "input": {
+    "placeholder": "Rechercher...",
+    "clearButton": "Effacer"
+  },
+  "tags": {
+    "accordionTitle": "Toutes les balises",
+    "available_one": "{{count}} balise disponible",
+    "available_other": "{{count}}  balises disponibles",
+    "selected_one": "{{count}} balise sélectionnée",
+    "selected_other": "{{count}}  balises sélectionnées",
+    "loading": "Chargement des balises...",
+    "error": "Échec du chargement des balises.",
+    "clearFilter": "Effacer le filtre de balises"
+  },
+  "results": {
+    "loading": "Chargement des résultats...",
+    "noResults": " Aucun résultat trouvé.",
+    "resultSummary_one": "<bold>{{count}}</bold> résultat trouvé pour",
+    "resultSummary_other": "<bold>{{count}}</bold> résultats trouvés pour",
+    "filterQuery": "\"{{query}}\"",
+    "filterQueryWithTags_one": "\"{{query}}\" avec {{count}} balise",
+    "filterQueryWithTags_other": "\"{{query}}\" avec {{count}} balises",
+    "filterTagged": "tagged \"{{tag}}\"",
+    "filterTaggedWith_one": "marqués avec {{count}} balise",
+    "filterTaggedWith_other": "marqués avec {{count}} balises"
+  },
+  "resultCard": {
+    "kindPage": "Page",
+    "kindSection": "Section"
+  }
+}

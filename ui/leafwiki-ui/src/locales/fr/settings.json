@@ -1,0 +1,52 @@
+{
+  "exit": "Quitter les paramètres",
+  "nav": {
+    "title": "Paramètres",
+    "account": "Compte"
+  },
+  "account": {
+    "pageTitle": "Compte",
+    "avatar": {
+      "sectionTitle": "Photo de profil",
+      "sectionDescription": "Téléchargez une photo pour personnaliser votre compte.",
+      "currentLabel": "Photo actuelle :",
+      "uploadButton": "Télécharger une photo",
+      "deleteButton": "Supprimer la photo",
+      "hint": "Formats autorisés : {{exts}}. Taille maximale : {{size}}.",
+      "uploadSuccess": "Photo de profil téléchargée",
+      "uploadFailed": "Impossible de télécharger la photo de profil",
+      "deleteSuccess": "Photo de profil supprimée",
+      "deleteFailed": "Impossible de supprimer la photo de profil"
+    },
+    "passwordSectionTitle": "Mot de passe",
+    "passwordSectionDescription": "Modifiez votre mot de passe. N'oubliez pas de le retenir !",
+    "twoFactorSectionTitle": "Authentification à deux facteurs",
+    "twoFactorSectionDescription": "Ajoutez un niveau de sécurité supplémentaire à votre compte.",
+    "preferences": {
+      "sectionTitle": "Préférences",
+      "sectionDescription": "Modification des préférences, synchronisées sur tous vos appareils.",
+      "autoSaveLabel": "Activer l'enregistrement automatique",
+      "autoSaveDescription": "Enregistrez automatiquement vos modifications lorsque vous modifiez une page.",
+      "savedToast": "Préférence enregistrée",
+      "autoSaveToggleError": "Impossible de mettre à jour le paramètre d'enregistrement automatique",
+      "languageLabel": " Langue",
+      "languageChangeError": "Impossible de mettre à jour le paramètre de langue",
+      "dateFormatLabel": "Format de la date",
+      "dateFormatChangeError": "Impossible de mettre à jour le paramètre de format de date",
+      "timeFormatLabel": "Format de l'heure",
+      "timeFormatChangeError": "Impossible de mettre à jour le paramètre de format de l'heure",
+      "dateFormat": {
+        "locale": "Suivre la langue",
+        "iso": "2026-08-27",
+        "dmyDot": "27.08.2026",
+        "mdySlash": "08/27/2026",
+        "dmySlash": "27/08/2026"
+      },
+      "timeFormat": {
+        "locale": "Suivre la langue",
+        "h24": "24-heures (14:30)",
+        "h12": "12-heures (2:30)"
+      }
+    }
+  }
+}

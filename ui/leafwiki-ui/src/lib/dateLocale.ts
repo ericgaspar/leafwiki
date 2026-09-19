@@ -16,11 +16,13 @@ import i18next from 'i18next'
 const DATE_FNS_LOCALES: Record<string, Locale> = {
   en: enUS,
   de,
+  fr,
 }
 
 const BCP47_TAGS: Record<string, string> = {
   en: 'en-US',
   de: 'de-DE',
+  fr: 'fr-FR',
 }
 
 function shortCode(lng?: string): string {
