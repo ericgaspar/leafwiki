@@ -1,30 +1,30 @@
 {
-  "menuLabel": "Broken Links",
-  "pageTitle": "Broken Links",
-  "title": "Broken Links",
-  "description": "Find pages that link to missing wiki pages.",
-  "heading": "Missing pages",
-  "sortLabel": "Sorted alphabetically",
-  "linksTo": "links to",
-  "loading": "Loading broken links…",
+  "menuLabel": "Liens rompus",
+  "pageTitle": "Liens rompus",
+  "title": "Liens rompus",
+  "description": "Rechercher les pages qui renvoient vers des pages wiki manquantes.",
+  "heading": "Pages manquantes",
+  "sortLabel": "Classées par ordre alphabétique",
+  "linksTo": "liens vers",
+  "loading": "Chargement des liens rompus...",
   "button": {
-    "text": "Refresh",
-    "refreshing": "Refreshing…"
+    "text": "Actualiser",
+    "refreshing": "Actualisation en cours..."
   },
   "summaryCard": {
-    "broken": "Broken links",
-    "missing": "Missing pages",
-    "affected": "Affected pages"
+    "broken": "Liens rompus",
+    "missing": "Pages manquantes",
+    "affected": "Pages concernées"
   },
   "groupCard": {
-    "reference": "reference",
-    "references": "references"
+    "reference": "référence",
+    "references": "références"
   },
   "empty": {
-    "title": "No broken links",
-    "description": "All links in the wiki point to existing pages."
+    "title": "Aucun lien rompu",
+    "description": "Tous les liens du wiki renvoient vers des pages existantes."
   },
   "error": {
-    "loadFailed": "Failed to load broken links."
+    "loadFailed": "Échec du chargement des liens rompus."
   }
 }
